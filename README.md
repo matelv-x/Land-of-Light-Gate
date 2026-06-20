@@ -8,6 +8,28 @@ To test your gate, select the symbols of your own gate address and then press th
 
 The same dot can also be used to disconnect the wormhole.
 
+## Fan project notice
+
+Land of Light is an unofficial, non-commercial hobby fan project created for Stargate fans and Stargate prop builders.
+
+This project is not sponsored, endorsed, approved by, or affiliated with Metro-Goldwyn-Mayer Studios Inc., Amazon MGM Studios, Syfy, or any Stargate rights holder.
+
+Stargate, Stargate SG-1, Stargate Atlantis, Stargate Universe, and all related names, logos, symbols, designs, characters, imagery, audio, and trademarks are the property of their respective owners.
+
+This fan page is not intended to infringe any copyright, trademark, or other intellectual property rights. It is shared only to help fans test their own StargateProject-compatible gates and keep the Stargate fan-building community alive.
+
+Access to the Land of Light fan gate is free. No fee is required to use the public fan page. If anyone asks you to pay for access, that offer is not from the original Land of Light fan gate.
+
+## Browser audio
+
+The public fan gate now includes browser-side audio.
+
+When the gate is used from a browser or tablet, the page can play Stargate-style dialing, chevron, wormhole, black hole, and random background audio through the device running the web page. This is useful when the Raspberry Pi gate has no speaker connected, or when the user is testing the gate remotely.
+
+Audio files remain on the Raspberry Pi in the normal SG1 `soundfx` folder. The fan page reads the allowed audio through the protected fan page path instead of exposing full private controls.
+
+Only the active browser tab in the same browser profile should play gate audio, which helps prevent duplicate audio when more than one Land of Light tab is open on the same device.
+
 ## Public gate use
 
 The Land of Light public gate page is shared only for normal manual StargateProject fan testing.
