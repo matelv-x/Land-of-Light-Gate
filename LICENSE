@@ -21,6 +21,17 @@ This public fan gate is free to use. No fee is required to use the published
 fan page. If anyone asks you to pay for access, that offer is not from the
 original Land of Light public gate.
 
+Project basis and credits:
+
+The public Land of Light fan gate page is based on the Retro web interface
+project by Andrew Polk / Polklabs:
+
+https://github.com/polklabs/stargate-retro
+
+Land of Light adds its own public fan gate configuration, access restrictions,
+session protection, browser audio, visual changes, and Land of Light-specific
+behavior.
+
 Permitted use:
 
 - You may use the published Land of Light gate page to manually dial and test
