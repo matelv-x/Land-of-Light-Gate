@@ -4,7 +4,7 @@ I’m sharing the address of my gate, Land of Light, for anyone who would like t
 
 https://gate.highlandergate.com/fan113.html
 
-To test your gate, select the symbols of your own gate address and then press the dark red dot.
+To test your gate, select the symbols of your own gate address and then press the dot.
 
 The same dot can also be used to disconnect the wormhole.
 
